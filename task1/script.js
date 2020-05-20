@@ -1,4 +1,4 @@
-'use strict';
+/* 'use strict';
 
 let money = +prompt("Введіть ваш місячний бюджет"),
     time = prompt("Введіть дату в форматі РРРР-MM-ДД");
@@ -26,6 +26,8 @@ let appDate = {
 
 };
 
-
-
 alert("Бюджет на один день " + money / 30);
+ */
+let a = 0 || "" || 2 || undefined || true || falsе;
+
+console.log(a);
